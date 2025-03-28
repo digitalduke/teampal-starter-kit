@@ -1,0 +1,24 @@
+.callout[data-callout="custom-area"] {
+    --callout-color: 76, 159, 212;
+    --callout-icon: lucide-circle-arrow-out-up-right;
+}
+
+.callout[data-callout="custom-event"] {
+    --callout-color: 76, 159, 212;
+    --callout-icon: lucide-calendar-heart;
+}
+
+.callout[data-callout="custom-person"] {
+    --callout-color: 76, 159, 212;
+    --callout-icon: lucide-contact;
+}
+
+.callout[data-callout="custom-project"] {
+    --callout-color: 76, 159, 212;
+    --callout-icon: lucide-goal;
+}
+
+.callout[data-callout="custom-note"] {
+    --callout-color: 76, 159, 212;
+    --callout-icon: lucide-sticky-note;
+}

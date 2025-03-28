@@ -1,0 +1,12 @@
+{
+  "propertiesInDocument": "source",
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Объекты",
+  "attachmentFolderPath": "Объекты/Вложения",
+  "userIgnoreFilters": [
+    "Объекты/Вложения/",
+    "Объекты/Шаблоны/",
+    "Ежедневник/"
+  ]
+}

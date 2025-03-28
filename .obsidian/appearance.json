@@ -1,0 +1,10 @@
+{
+  "theme": "moonstone",
+  "accentColor": "#4c9fd4",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "callouts"
+  ],
+  "showRibbon": false,
+  "translucency": true
+}
